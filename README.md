@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=Code+as+art;Writing+darkness+line+by+line;Breathing+atmosphere+into+websites" alt="Typing SVG" />
 </p>
 
----
+<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/cloudy.png" width="100%">
 
 ### 🌌 About Me
 
@@ -21,22 +21,30 @@ Specializing in building complex ecosystems: from high-performance Rust applicat
 ### 🛠 Tech Stack
 
 #### 💻 Programming Languages
-![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 #### 🌐 Frontend & Web
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![](https://img.shields.io/badge/SPA-Visual-purple?style=for-the-badge)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![SPA](https://img.shields.io/badge/SPA-Visual-purple?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Glossary/SPA)
 
 #### 🤖 AI & Backend
 * **AI Architecture:** Working with AI APIs, character creation, and implementing three-level memory systems.
 * **Bots:** Developing advanced solutions for Telegram and Discord.
 * **Databases:** Designing and integrating databases (PostgreSQL/MongoDB/Redis).
 
----
+<details>
+<summary><b>Click to see my AI development approach</b></summary>
+
+- **Three-Level Memory Systems:** Implementing Short-term, Long-term, and Semantic memory for persistent AI personalities.
+- **LLM Integration:** Deep work with OpenAI/Gemini APIs, prompt engineering, and context window optimization.
+- **Scalable Bots:** Discord & Telegram bots with database integration (Postgres/SQLite) for high-load performance.
+</details>
+
+<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/cloudy.png" width="100%">
 
 ### 📊 Activity Stats
 
@@ -52,14 +60,14 @@ Specializing in building complex ecosystems: from high-performance Rust applicat
 
 </div>
 
----
+<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/cloudy.png" width="100%">
 
 ### 🔮 Current Focus
 - 🦀 Deep diving into systems programming with **Rust**.
 - 🧠 Optimizing contextual memory for AI agents.
 - 🎨 Crafting atmospheric interfaces using modern web technologies.
 
----
+<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/cloudy.png" width="100%">
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=702963&height=100&section=footer" />
