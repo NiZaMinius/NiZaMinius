@@ -66,6 +66,62 @@ Specializing in building complex ecosystems: from high-performance Rust applicat
 
 ### ⏳ Weekly Coding Activity 
 <!--START_SECTION:wakatime-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 64.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 34 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 9 Public Repositories 
+ > 
+> 🔑 9 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+🌆 Daytime                159 commits         ███████████░░░░░░░░░░░░░░   45.04 % 
+🌃 Evening                155 commits         ███████████░░░░░░░░░░░░░░   43.91 % 
+🌙 Night                  16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Tuesday                  17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+Wednesday                42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+Thursday                 44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Friday                   103 commits         ███████░░░░░░░░░░░░░░░░░░   29.18 % 
+Saturday                 40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+Sunday                   62 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Baku
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/NiZaMinius/NiZaMinius/main/assets/bar_graph.png)
+
+
+ Last Updated on 27/03/2026 13:48:24 UTC
 <!--END_SECTION:wakatime-->
 
 <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/cloudy.png" width="100%">
