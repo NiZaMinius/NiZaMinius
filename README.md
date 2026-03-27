@@ -65,7 +65,8 @@ Specializing in building complex ecosystems: from high-performance Rust applicat
 <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/cloudy.png" width="100%">
 
 ### ⏳ Weekly Coding Activity 
-`![START_SECTION:wakatime]`
+<!--START_SECTION:wakatime-->
+<!--END_SECTION:wakatime-->
 
 <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/cloudy.png" width="100%">
 
