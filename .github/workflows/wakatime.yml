@@ -1,0 +1,25 @@
+name: WakaTime Stat Update
+
+on:
+  schedule:
+    # Запуск каждые 6 часов (можно чаще, но зачем?)
+    - cron: "0 */6 * * *"
+  workflow_dispatch: # Кнопка для ручного запуска в табе Actions
+
+jobs:
+  update-readme:
+    name: Update WakaTime Statistics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true # Показывать заголовок "WakaTime Stats"
+          SECTION_NAME: wakatime # Имя секции в твоем README
+          BLOCKS: "⏳" # Стиль прогресс-бара (можно заменить на любые символы)
+          TIME_RANGE: last_7_days # Период: last_7_days, last_30_days, etc.
+          LANG_COUNT: 7 # Сколько языков выводить в топ
+          SHOW_TIME: true # Показывать реальное время (часы/минуты)
+          SHOW_TOTAL: true # Показывать общее время за неделю
+          SHOW_MASKED_TIME: false # Скрывать точное время, оставляя только проценты (если нужно больше анонимности)
+          STOP_AT_LESS_THAN_1: true # Не показывать языки, на которых ты писал меньше 1% времени
