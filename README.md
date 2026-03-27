@@ -60,6 +60,8 @@ Specializing in building complex ecosystems: from high-performance Rust applicat
 
 </div>
 
+![Snake animation](https://raw.githubusercontent.com/NiZaMinius/NiZaMinius/output/github-snake-dark.svg)
+
 <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/cloudy.png" width="100%">
 
 ### ⏳ Weekly Coding Activity
