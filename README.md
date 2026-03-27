@@ -62,6 +62,10 @@ Specializing in building complex ecosystems: from high-performance Rust applicat
 
 <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/cloudy.png" width="100%">
 
+### ⏳ Weekly Coding Activity
+
+<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/cloudy.png" width="100%">
+
 ### 🔮 Current Focus
 - 🦀 Deep diving into systems programming with **Rust**.
 - 🧠 Optimizing contextual memory for AI agents.
