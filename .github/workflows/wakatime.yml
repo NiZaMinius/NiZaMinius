@@ -2,16 +2,15 @@ name: WakaTime Stat Update
 
 on:
   schedule:
-    # Запуск каждые 6 часов (можно чаще, но зачем?)
     - cron: "0 */6 * * *"
-  workflow_dispatch: # Кнопка для ручного запуска в табе Actions
+  workflow_dispatch:
 
 jobs:
   update-readme:
     name: Update WakaTime Statistics
     runs-on: ubuntu-latest
     steps:
-          - uses: athul/waka-readme@master
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
@@ -22,4 +21,4 @@ jobs:
           SHOW_TIME: true
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
-          STOP_AT_OTHER: true # Это вместо того, что выдало ошибку. Он будет группировать редкие языки в "Other".
+          STOP_AT_OTHER: true
