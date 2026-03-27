@@ -2,8 +2,7 @@ name: WakaTime Stat Update
 
 on:
   schedule:
-    # Автозапуск каждые 6 часов
-    - cron: "0 */6 * * *"
+    - cron: "0 */2 * * *"
   workflow_dispatch:
 
 jobs:
@@ -11,16 +10,21 @@ jobs:
     name: Update WakaTime Statistics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SHOW_TITLE: true
           SECTION_NAME: wakatime
           BLOCKS: "⏳"
-          TIME_RANGE: last_7_days
+          TIME_RANGE: all_time
           LANG_COUNT: 10
           SHOW_TIME: true
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
-          STOP_AT_OTHER: true
           SHOW_EDITS: false
+          SHOW_LINES: false
+          SHOW_PROFILE_VIEWS: false
+          SHOW_PROJECTS: false
+          # Оставляем только чистые языки
+          SHOW_LANGUAGE_PER_REPO: false
