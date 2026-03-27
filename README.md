@@ -83,21 +83,21 @@ Specializing in building complex ecosystems: from high-performance Rust applicat
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-🌆 Daytime                159 commits         ███████████░░░░░░░░░░░░░░   45.04 % 
-🌃 Evening                155 commits         ███████████░░░░░░░░░░░░░░   43.91 % 
-🌙 Night                  16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+🌞 Morning                23 commits          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.50 % 
+🌆 Daytime                160 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   45.20 % 
+🌃 Evening                155 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   43.79 % 
+🌙 Night                  16 commits          ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.52 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-Tuesday                  17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-Wednesday                42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-Thursday                 44 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-Friday                   103 commits         ███████░░░░░░░░░░░░░░░░░░   29.18 % 
-Saturday                 40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-Sunday                   62 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+Monday                   45 commits          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.71 % 
+Tuesday                  17 commits          ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.80 % 
+Wednesday                42 commits          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.86 % 
+Thursday                 44 commits          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.43 % 
+Friday                   104 commits         ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.38 % 
+Saturday                 40 commits          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.30 % 
+Sunday                   62 commits          ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.51 % 
 ```
 
 
@@ -112,6 +112,9 @@ No Activity Tracked This Week
 🔥 Editors: 
 No Activity Tracked This Week
 
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
 💻 Operating System: 
 No Activity Tracked This Week
 ```
@@ -121,7 +124,7 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/NiZaMinius/NiZaMinius/main/assets/bar_graph.png)
 
 
- Last Updated on 27/03/2026 13:48:24 UTC
+ Last Updated on 27/03/2026 13:54:03 UTC
 <!--END_SECTION:wakatime-->
 
 <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/cloudy.png" width="100%">
