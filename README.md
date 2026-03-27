@@ -3,14 +3,14 @@
 # 🌒 NiZaMinius
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=Code+as+art;Writing+darkness+line+by+line;Breathing+atmosphere+into+websites" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=Code+as+art;Writing+darkness+line+by+line;Breathing+atmosphere+into+websites" alt="Typing SVG" />
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png" width="100%">
+<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/cloudy.png" width="100%">
 
 ### 🌌 About Me
 
-A developer who believes in the architectural beauty of code and the depth of storytelling.  
+A developer who believes in the architectural beauty of code and the depth of storytelling.  
 Specializing in building complex ecosystems: from high-performance Rust applications to intelligent bots with multi-level memory systems.
 
 [![](https://img.shields.io/badge/Discord-Community-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bvUwqJSmFY)
@@ -44,9 +44,10 @@ Specializing in building complex ecosystems: from high-performance Rust applicat
 - **Scalable Bots:** Discord & Telegram bots with database integration (Postgres/SQLite) for high-load performance.
 </details>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png" width="100%">
+<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/cloudy.png" width="100%">
 
 ### 📊 Activity Stats
+
 
 <div align="center">
 
@@ -54,25 +55,27 @@ Specializing in building complex ecosystems: from high-performance Rust applicat
 | :---: | :---: |
 | <img height="220" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NiZaMinius&show_icons=true&theme=tokyonight&count_private=true" /> | <img height="220" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NiZaMinius&layout=compact&theme=tokyonight&langs_count=6" /> |
 
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NiZaMinius&theme=tokyonight" alt="GitHub Streak" />
 
 </div>
 
 ![Snake animation](https://raw.githubusercontent.com/NiZaMinius/NiZaMinius/output/github-snake-dark.svg)
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png" width="100%">
+<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/cloudy.png" width="100%">
 
 ### ⏳ Weekly Coding Activity
+``
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png" width="100%">
+<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/cloudy.png" width="100%">
 
 ### 🔮 Current Focus
 - 🦀 Deep diving into systems programming with **Rust**.
 - 🧠 Optimizing contextual memory for AI agents.
 - 🎨 Crafting atmospheric interfaces using modern web technologies.
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png" width="100%">
+<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/cloudy.png" width="100%">
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=702963&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=702963&height=100&section=footer" />
 </div>
