@@ -11,15 +11,15 @@ jobs:
     name: Update WakaTime Statistics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+          - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true # Показывать заголовок "WakaTime Stats"
-          SECTION_NAME: wakatime # Имя секции в твоем README
-          BLOCKS: "⏳" # Стиль прогресс-бара (можно заменить на любые символы)
-          TIME_RANGE: last_7_days # Период: last_7_days, last_30_days, etc.
-          LANG_COUNT: 7 # Сколько языков выводить в топ
-          SHOW_TIME: true # Показывать реальное время (часы/минуты)
-          SHOW_TOTAL: true # Показывать общее время за неделю
-          SHOW_MASKED_TIME: false # Скрывать точное время, оставляя только проценты (если нужно больше анонимности)
-          STOP_AT_LESS_THAN_1: true # Не показывать языки, на которых ты писал меньше 1% времени
+          SHOW_TITLE: true
+          SECTION_NAME: wakatime
+          BLOCKS: "⏳"
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 10
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          SHOW_MASKED_TIME: false
+          STOP_AT_OTHER: true # Это вместо того, что выдало ошибку. Он будет группировать редкие языки в "Other".
