@@ -2,7 +2,7 @@ name: WakaTime Stat Update
 
 on:
   schedule:
-    - cron: "0 */2 * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
@@ -14,6 +14,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SYMBOL_VERSION: 2
           SHOW_TITLE: true
           SECTION_NAME: wakatime
           BLOCKS: "⏳"
@@ -25,6 +26,5 @@ jobs:
           SHOW_EDITS: false
           SHOW_LINES: false
           SHOW_PROFILE_VIEWS: false
-          SHOW_PROJECTS: false
-          # Оставляем только чистые языки
+          SHOW_PROJECTS: true
           SHOW_LANGUAGE_PER_REPO: false
