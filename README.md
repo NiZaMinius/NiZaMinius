@@ -70,7 +70,7 @@ Specializing in building complex ecosystems: from high-performance Rust applicat
 
 **🐱 My GitHub Data** 
 
-> 📦 64.4 kB Used in GitHub's Storage 
+> 📦 64.5 kB Used in GitHub's Storage 
  > 
 > 🏆 58 Contributions in the Year 2026
  > 
@@ -124,7 +124,7 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/NiZaMinius/NiZaMinius/main/assets/bar_graph.png)
 
 
- Last Updated on 20/06/2026 19:42:51 UTC
+ Last Updated on 21/06/2026 04:44:30 UTC
 <!--END_SECTION:wakatime-->
 
 <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/cloudy.png" width="100%">
