@@ -29,19 +29,30 @@ Specializing in building complex ecosystems: from high-performance Rust applicat
 #### 🌐 Frontend & Web
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![SPA](https://img.shields.io/badge/SPA-Visual-purple?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Glossary/SPA)
+[![SPA Architecture](https://img.shields.io/badge/Architecture-SPA%20%26%20Components-702963?style=for-the-badge)](#)
+[![Reactive UI](https://img.shields.io/badge/UI-Reactive%20%26%20Stateful-4B0082?style=for-the-badge)](#)
 
-#### 🤖 AI & Backend
-* **AI Architecture:** Working with AI APIs, character creation, and implementing three-level memory systems.
-* **Bots:** Developing advanced solutions for Telegram and Discord.
-* **Databases:** Designing and integrating databases (PostgreSQL/MongoDB/Redis).
+* **Architecture:** Modular SPA development with React & Vite, focused on clean component separation and predictable state management.
+* **Performance:** Fast bundle assembly, optimized render cycles, and responsive layouts.
+
+#### 🤖 AI, Machine Learning & Backend
+[![Burn](https://img.shields.io/badge/Burn%20Framework-Rust%20ML-orange?style=for-the-badge)](https://burn.dev/)
+[![Supabase](https://img.shields.io/badge/Supabase-pgvector-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![aiogram](https://img.shields.io/badge/aiogram-Python-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://aiogram.dev/)
+
+* **Native ML & Systems:** Experimenting with custom tokenization and building/training ML models in Rust using the **Burn** framework. Creating AI agents for games trained on data extracted via reverse engineering.
+* **Architecture:** Async bot backends (`aiogram`, `discord.py`) paired with PostgreSQL/Supabase. Pragmatic infrastructure without unnecessary Redis overengineering.
 
 <details>
-<summary><b>Click to see my AI development approach</b></summary>
+<summary><b>Click to see my AI development & Memory approach</b></summary>
 
-- **Three-Level Memory Systems:** Implementing Short-term, Long-term, and Semantic memory for persistent AI personalities.
-- **LLM Integration:** Deep work with OpenAI/Gemini APIs, prompt engineering, and context window optimization.
-- **Scalable Bots:** Discord & Telegram bots with database integration (Postgres/SQLite) for high-load performance.
+- **Hybrid Memory Pipeline:** 
+  - *Short-term:* In-memory (RAM) session context for zero-latency interactions.
+  - *Semantic Memory:* Vector embeddings via `pgvector` in Supabase for fast similarity search.
+  - *Long-term Memory & RAG:* Tagged event history and lore storage for deep contextual recall spanning weeks or months.
+- **Dynamic Personality Engine:** Multi-variable prompt orchestration incorporating internal agent states (mood, fatigue, emotional shifts) to keep character behavior organic and alive.
+- **Custom ML Workflows:** Reverse-engineering data pipelines to train autonomous game-playing agents from scratch using Rust-native ML tools.
 </details>
 
 <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/cloudy.png" width="100%">
