@@ -39,10 +39,9 @@ Specializing in building complex ecosystems: from high-performance Rust applicat
 [![Burn](https://img.shields.io/badge/Burn%20Framework-Rust%20ML-orange?style=for-the-badge)](https://burn.dev/)
 [![Supabase](https://img.shields.io/badge/Supabase-pgvector-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![aiogram](https://img.shields.io/badge/aiogram-Python-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://aiogram.dev/)
 
 * **Native ML & Systems:** Experimenting with custom tokenization and building/training ML models in Rust using the **Burn** framework. Creating AI agents for games trained on data extracted via reverse engineering.
-* **Architecture:** Async bot backends (`aiogram`, `discord.py`) paired with PostgreSQL/Supabase. Pragmatic infrastructure without unnecessary Redis overengineering.
+* **Architecture:** Building high-performance Discord integrations in Rust using **serenity**, backed by PostgreSQL/Supabase. Pragmatic architecture without unnecessary Redis overengineering.
 
 <details>
 <summary><b>Click to see my AI development & Memory approach</b></summary>
