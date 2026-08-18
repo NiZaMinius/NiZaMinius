@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Nizami M&#601;mm&#601;dov&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 17, Total Commits  (last year) : 93, Total PRs: 1, Total Issues: 11, Contributed to (last year): 0</desc>
+        <title id="titleId">NiZaMinius, Rank: C+</title>
+        <desc id="descId">Total Stars Earned: 17, Total Commits  (last year) : 95, Total PRs: 1, Total Issues: 11, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 208.19573616873308;
+        stroke-dashoffset: 208.01675088051974;
       }
     }
   
@@ -126,7 +126,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Nizami M&#601;mm&#601;dov&#39;s GitHub Stats</text>
+      >NiZaMinius</text>
     </g>
       </g>
     
@@ -177,7 +177,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >93</text>
+      >95</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
