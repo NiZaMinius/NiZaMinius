@@ -53,7 +53,7 @@ Specializing in building complex ecosystems: from high-performance Rust applicat
 
 | **Profile Details** | **Most Used Languages** |
 | :---: | :---: |
-| <img height="220" src="https://github-readme-stats.vercel.app/api?username=NiZaMinius&show_icons=true&theme=tokyonight" /> | <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiZaMinius&layout=compact&theme=tokyonight&langs_count=6" /> |
+| <img height="220" src="./overview.svg" /> | <img height="220" src="./languages.svg" /> |
 
 <img src="https://streak-stats.demolab.com/?user=NiZaMinius&theme=tokyonight" alt="GitHub Streak" />
 
