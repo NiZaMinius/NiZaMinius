@@ -20,7 +20,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: "username=NiZaMinius&show_icons=true&theme=tokyonight"
+          options: "username=NiZaMinius&show_icons=true&custom_title=NiZaMinius&theme=tokyonight"
           path: overview.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -28,7 +28,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: "username=NiZaMinius&layout=compact&langs_count=6&theme=tokyonight"
+          options: "username=NiZaMinius&layout=compact&custom_title=NiZaMinius&langs_count=6&theme=tokyonight"
           path: languages.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
