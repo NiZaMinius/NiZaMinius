@@ -1,0 +1,44 @@
+name: Generate GitHub Stats Images
+
+on:
+  schedule:
+    # Regenerate once a day so stats stay fresh.
+    - cron: "0 6 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+
+jobs:
+  generate-images:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate stats images
+        uses: stats-organization/github-readme-stats-action@main
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          username: NiZaMinius
+          output_action: overview.svg
+          type_action: overview
+          show_icons: true
+          theme: tokyonight
+
+      - name: Generate top languages image
+        uses: stats-organization/github-readme-stats-action@main
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          username: NiZaMinius
+          output_action: languages.svg
+          type_action: languages
+          layout: compact
+          langs_count: 6
+          theme: tokyonight
+
+      - name: Commit generated images
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add overview.svg languages.svg
+          git diff --staged --quiet || git commit -m "chore: refresh stats images"
+          git push
