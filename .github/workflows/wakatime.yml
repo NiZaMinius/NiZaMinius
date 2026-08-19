@@ -28,5 +28,3 @@ jobs:
           SHOW_PROFILE_VIEWS: false
           SHOW_PROJECTS: true
           SHOW_LANGUAGE_PER_REPO: false
-          SHOW_AI_CODE_TIME: "false"
-          SHOW_AI_METRICS: "false"
