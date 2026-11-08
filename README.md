@@ -77,8 +77,6 @@ Specializing in building complex ecosystems: from high-performance Rust applicat
 <!--START_SECTION:wakatime-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%203%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 576.9 kB Used in GitHub's Storage 
@@ -147,7 +145,7 @@ No AI Coding Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/NiZaMinius/NiZaMinius/main/assets/bar_graph.png)
 
 
- Last Updated on 08/11/2026 17:49:59 UTC
+ Last Updated on 08/11/2026 17:51:44 UTC
 <!--END_SECTION:wakatime-->
 
 <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/cloudy.png" width="100%">
