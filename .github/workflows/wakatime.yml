@@ -23,6 +23,7 @@ jobs:
           SHOW_TIME: true
           SHOW_TOTAL: true
           SHOW_MASKED_TIME: false
+          SHOW_AI_CODE_TIME: false
           SHOW_EDITS: false
           SHOW_LINES: false
           SHOW_PROFILE_VIEWS: false
