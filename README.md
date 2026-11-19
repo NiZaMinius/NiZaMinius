@@ -179,7 +179,7 @@ A collaborative Rust Discord bot that estimates channel activity using a heurist
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NiZaMinius/NiZaMinius/output/github-snake.svg" alt="GitHub contribution snake" />
+  <img src="https://raw.githubusercontent.com/NiZaMinius/NiZaMinius/output/github-snake-dark.svg" alt="GitHub contribution snake" />
 </p>
 
 <img src="https://github.com/andreasbm/readme/blob/master/assets/lines/cloudy.png" width="100%" alt="Cloudy divider" />
