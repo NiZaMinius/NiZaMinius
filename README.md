@@ -3,155 +3,187 @@
 # 🌒 NiZaMinius
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=Code+as+art;Writing+darkness+line+by+line;Breathing+atmosphere+into+websites" alt="Typing SVG" />
+  <img src="https://count.getloli.com/@my-little-niza?theme=booru-lewd&padding=6&offset=2&align=center&scale=1.2&pixelated=1&darkmode=0&prefix=2379" alt="Profile visitor counter" />
 </p>
 
-<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/cloudy.png" width="100%">
-
-### 🌌 About Me
-
-A developer who believes in the architectural beauty of code and the depth of storytelling.  
-Specializing in building complex ecosystems: from high-performance Rust applications to intelligent bots with multi-level memory systems.
-
-[![](https://img.shields.io/badge/Discord-Community-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bvUwqJSmFY)
-[![](https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NiZaMinius)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=Code+as+art;Writing+darkness+line+by+line;Breathing+atmosphere+into+creations" alt="Typing SVG" />
+</p>
 
 </div>
 
-### 🛠 Tech Stack
+<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/cloudy.png" width="100%" alt="Cloudy divider" />
 
-#### 💻 Programming Languages
-[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+## About Me
 
-#### 🌐 Frontend & Web
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![SPA Architecture](https://img.shields.io/badge/Architecture-SPA%20%26%20Components-702963?style=for-the-badge)](#)
-[![Reactive UI](https://img.shields.io/badge/UI-Reactive%20%26%20Stateful-4B0082?style=for-the-badge)](#)
+Software developer focused on Rust and developer tooling. I build CLI/TUI applications and reusable libraries, with an emphasis on flexibility, safety, and performance. I'm particularly interested in systems programming, low-level concepts, software architecture, and improving existing solutions.
 
-* **Architecture:** Modular SPA development with React & Vite, focused on clean component separation and predictable state management.
-* **Performance:** Fast bundle assembly, optimized render cycles, and responsive layouts.
+I also build integrations for local and hosted language models, including retrieval-augmented generation (RAG), tool calling, and database-backed multi-layer memory systems.
 
-#### 🤖 AI, Machine Learning & Backend
-[![Burn](https://img.shields.io/badge/Burn%20Framework-Rust%20ML-orange?style=for-the-badge)](https://burn.dev/)
-[![Supabase](https://img.shields.io/badge/Supabase-pgvector-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+<p>
+  <a href="https://discord.gg/bvUwqJSmFY"><img src="https://img.shields.io/badge/Discord-Community-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://t.me/NiZaMinius"><img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+</p>
 
-* **Native ML & Systems:** Experimenting with custom tokenization and building/training ML models in Rust using the **Burn** framework. Creating AI agents for games trained on data extracted via reverse engineering.
-* **Architecture:** Building high-performance Discord integrations in Rust using **serenity**, backed by PostgreSQL/Supabase. Pragmatic architecture without unnecessary Redis overengineering.
+## Interests
+
+- Systems programming and low-level software
+- Software architecture and system design
+- Performance optimization and improving existing solutions
+
+<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/cloudy.png" width="100%" alt="Cloudy divider" />
+
+## Projects
 
 <details>
-<summary><b>Click to see my AI development & Memory approach</b></summary>
+<summary><b>tree2dir</b> — Turn text-based directory trees into real files and directories</summary>
 
-- **Hybrid Memory Pipeline:** 
-  - *Short-term:* In-memory (RAM) session context for zero-latency interactions.
-  - *Semantic Memory:* Vector embeddings via `pgvector` in Supabase for fast similarity search.
-  - *Long-term Memory & RAG:* Tagged event history and lore storage for deep contextual recall spanning weeks or months.
-- **Dynamic Personality Engine:** Multi-variable prompt orchestration incorporating internal agent states (mood, fatigue, emotional shifts) to keep character behavior organic and alive.
-- **Custom ML Workflows:** Reverse-engineering data pipelines to train autonomous game-playing agents from scratch using Rust-native ML tools.
+[![Crates.io](https://img.shields.io/crates/v/tree2dir?style=flat-square&logo=rust&logoColor=white)](https://crates.io/crates/tree2dir)
+[![Downloads](https://img.shields.io/crates/d/tree2dir?style=flat-square)](https://crates.io/crates/tree2dir)
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/NiZaMinius/tree2dir)
+
+A flexible Rust CLI/TUI utility that converts a text representation of a directory tree into actual files and directories.
+
+**Highlights**
+- Interactive TUI, Unix pipes, and file-based input.
+- Handles box-drawing characters, spaces, tabs, and raw `tree` output with Unicode-aware indentation parsing.
+- Detects directories from their structure instead of requiring every directory to be marked manually.
+- Includes path-traversal protection, safe handling of existing files, and a `--dry-run` mode.
+- Distributed as a self-contained binary.
+
+**Stack:** Rust, Ratatui, Crossterm.
+
 </details>
 
-<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/cloudy.png" width="100%">
+<details>
+<summary><b>GameMaker-Save</b> — Encrypted save system for GameMaker Studio 2</summary>
 
-### 📊 Activity Stats
+[![Crates.io](https://img.shields.io/crates/v/gm-save-core?style=flat-square&logo=rust&logoColor=white)](https://crates.io/crates/gm-save-core)
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/NiZaMinius/GameMaker-Save)
 
+A cross-platform save system for GameMaker Studio 2, built around a Rust core and exposed to GameMaker through a C ABI layer.
+
+**Highlights**
+- XChaCha20-Poly1305 authenticated encryption.
+- PBKDF2-HMAC-SHA256 key derivation and fallback-key rotation.
+- Atomic writes to help protect existing save slots from interrupted writes.
+- Independent save slots, metadata access, backups, and import/export operations.
+- Builds for Windows, Linux, and macOS.
+
+**Stack:** Rust, C ABI / FFI, XChaCha20-Poly1305, PBKDF2-HMAC-SHA256, GameMaker.
+
+</details>
+
+<details>
+<summary><b>Entropix</b> — Real-time activity and chaos tracking for Discord</summary>
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/Devoid-Kun/Entropix)
+
+A collaborative Rust Discord bot that estimates channel activity using a heuristic chaos index based on message velocity, capitalization, and punctuation density. When activity crosses configured thresholds, the bot can rename the monitored channel and produce daily activity summaries.
+
+**My contribution:** Implemented the core application logic and database layer, and handled a substantial part of the bug fixing. The project architecture and file structure were developed together with [Devoid-Kun](https://github.com/Devoid-Kun). The mathematical model and documentation were contributed by Devoid-Kun.
+
+**Stack:** Rust, Serenity, Poise, Tokio, SQLx, SQLite.
+
+</details>
+
+<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/cloudy.png" width="100%" alt="Cloudy divider" />
+
+## Tech Stack
+
+<details>
+<summary><b>Languages</b></summary>
+
+| Language | Focus / use |
+|:--|:--|
+| Rust | Main language for CLI/TUI tools, libraries, and systems-oriented applications |
+| Python | Scripting, tooling, and occasional ML/AI experiments |
+| TypeScript | Previous web projects and application interfaces |
+| JavaScript | Previous web projects and scripting |
+
+</details>
+
+<details>
+<summary><b>Libraries & Frameworks</b></summary>
+
+| Area | Libraries / frameworks |
+|:--|:--|
+| Rust CLI / TUI | Ratatui, Crossterm |
+| Async & Discord | Tokio, Serenity, Poise |
+| Database access | SQLx |
+| Machine learning | Burn |
+| Web (previous experience) | React, Vite |
+
+</details>
+
+<details>
+<summary><b>Databases & Platforms</b></summary>
+
+| Area | Technologies |
+|:--|:--|
+| Relational databases | SQLite, PostgreSQL |
+| Vector search | pgvector |
+| Backend platform | Supabase |
+| Integrations | Discord API, REST APIs |
+| Interoperability | C ABI / FFI |
+
+</details>
+
+<details>
+<summary><b>Cryptography</b></summary>
+
+- XChaCha20-Poly1305
+- PBKDF2-HMAC-SHA256
+
+</details>
+
+<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/cloudy.png" width="100%" alt="Cloudy divider" />
+
+## Coding Statistics
+
+<details>
+<summary><b>⌛ Coding Statistics</b></summary>
+
+<p align="center">
+  <!-- Generated by the WakaTime stats workflow. -->
+  <img src="./assets/wakatime-overview.svg" alt="WakaTime all-time coding time and recent development environment" />
+</p>
+
+### Languages by coding time · All time
+
+<p align="center">
+  <img src="./assets/wakatime-languages.svg" alt="WakaTime language distribution by coding time" />
+</p>
+
+### Languages in repositories · GitHub
+
+<p align="center">
+  <img src="./languages.svg" alt="GitHub language distribution by repository code size" />
+</p>
+
+### Code changes by quarter · GitHub
+
+<!--START_SECTION:github-loc-->
+<!--END_SECTION:github-loc-->
+
+</details>
+
+## GitHub Activity
 
 <div align="center">
 
-| **Profile Details** | **Most Used Languages** |
-| :---: | :---: |
-| <img height="220" src="./overview.svg" /> | <img height="220" src="./languages.svg" /> |
+<img src="./overview.svg" height="195" alt="GitHub profile statistics" />
 
-<img src="https://streak-stats.demolab.com/?user=NiZaMinius&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=NiZaMinius&theme=dark&background=00000000&ring=A78BFA&fire=C4B5FD&currStreakLabel=A78BFA&sideLabels=C9C1D9&dates=827A94&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/NiZaMinius/NiZaMinius/output/github-snake-dark.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NiZaMinius/NiZaMinius/output/github-snake.svg" alt="GitHub contribution snake" />
+</p>
 
-<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/cloudy.png" width="100%">
-
-### ⏳ Weekly Coding Activity 
-<!--START_SECTION:wakatime-->
-![Code Time](http://img.shields.io/badge/Code%20Time-44%20hrs%2042%20mins-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 577.1 kB Used in GitHub's Storage 
- > 
-> 🏆 320 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 17 Public Repositories 
- > 
-> 🔑 12 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                41 commits          ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.27 % 
-🌆 Daytime                485 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   38.65 % 
-🌃 Evening                637 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   50.76 % 
-🌙 Night                  92 commits          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.33 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   183 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.58 % 
-Tuesday                  108 commits         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.61 % 
-Wednesday                146 commits         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.63 % 
-Thursday                 95 commits          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.57 % 
-Friday                   210 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.73 % 
-Saturday                 184 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.66 % 
-Sunday                   329 commits         ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.22 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Baku
-
-💬 Programming Languages: 
-Markdown                 47 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   98.62 % 
-Diff                     0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.38 % 
-
-🔥 Editors: 
-Zed                      48 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
-
-🐱‍💻 Projects: 
-tree2dir                 48 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
-
-💻 Operating System: 
-Windows                  48 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/NiZaMinius/NiZaMinius/main/assets/bar_graph.png)
-
-
- Last Updated on 18/11/2026 15:21:54 UTC
-<!--END_SECTION:wakatime-->
-
-<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/cloudy.png" width="100%">
-
-### 🔮 Current Focus
-- 🦀 Deep diving into systems programming with **Rust**.
-- 🧠 Optimizing contextual memory for AI agents.
-- 🎨 Crafting atmospheric interfaces using modern web technologies.
-
-<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/cloudy.png" width="100%">
+<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/cloudy.png" width="100%" alt="Cloudy divider" />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=702963&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=702963&height=100&section=footer" alt="Purple wave footer" />
 </div>
