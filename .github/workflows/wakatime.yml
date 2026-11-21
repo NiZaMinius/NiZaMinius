@@ -28,7 +28,7 @@ jobs:
 
       - name: Generate WakaTime cards
         env:
-          WAKATIME_OAUTH_TOKEN: \${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_OAUTH_TOKEN: ${{ secrets.WAKATIME_OAUTH_TOKEN }}
         run: python scripts/generate_wakatime.py
 
       - name: Commit generated SVGs

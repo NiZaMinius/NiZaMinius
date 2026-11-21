@@ -27,7 +27,7 @@ jobs:
           card: stats
           options: "username=NiZaMinius&show_icons=true&custom_title=GitHub%20Stats&title_color=A78BFA&text_color=C9C1D9&icon_color=C4B5FD&bg_color=00000000&hide_border=true"
           path: overview.svg
-          token: \${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
       - name: Generate GitHub language distribution
@@ -36,7 +36,7 @@ jobs:
           card: top-langs
           options: "username=NiZaMinius&layout=compact&custom_title=Most%20Used%20Languages&langs_count=6&title_color=A78BFA&text_color=C9C1D9&icon_color=C4B5FD&bg_color=00000000&hide_border=true"
           path: languages.svg
-          token: \${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
       - name: Commit generated images
