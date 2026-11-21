@@ -96,7 +96,7 @@ A collaborative Rust Discord bot that estimates channel activity using a heurist
 
 <table align="center">
   <tr>
-    <td width="175"><b>⌨️ Languages</b></td>
+    <td width="175"><b>Languages</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=rust,python,ts,js&theme=dark&perline=4" height="42" alt="Rust, Python, TypeScript, JavaScript" />
       <br/>
