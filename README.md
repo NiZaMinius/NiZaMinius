@@ -172,7 +172,7 @@ A collaborative Rust Discord bot that estimates channel activity using a heurist
   <tr>
     <td><b>Frontend · Previous experience</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react,vite&theme=dark&perline=2" height="42" alt="React, Vite" />
+      <img src="https://skillicons.dev/icons?i=react,svelte,vite&theme=dark&perline=3" height="42" alt="React, Svelte, Vite" />
     </td>
   </tr>
   <tr>
