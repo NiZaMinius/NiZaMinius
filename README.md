@@ -215,6 +215,7 @@ A collaborative Rust Discord bot that estimates channel activity using a heurist
 ### Code changes by quarter · GitHub
 
 <!--START_SECTION:github-loc-->
+<!-- This block is updated automatically with the quarterly chart generated from GitHub commit history. -->
 <!--END_SECTION:github-loc-->
 
 </details>
