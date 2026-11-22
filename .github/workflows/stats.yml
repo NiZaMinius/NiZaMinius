@@ -34,9 +34,9 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: "username=NiZaMinius&layout=compact&custom_title=Most%20Used%20Languages&langs_count=6&title_color=A78BFA&text_color=C9C1D9&icon_color=C4B5FD&bg_color=00000000&hide_border=true"
+          options: "username=NiZaMinius&layout=compact&custom_title=Languages%20Across%20Repositories&langs_count=10&size_weight=0.5&count_weight=0.5&title_color=A78BFA&text_color=C9C1D9&icon_color=C4B5FD&bg_color=00000000&hide_border=true"
           path: languages.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
           fail_on_error: true
 
       - name: Commit generated images
