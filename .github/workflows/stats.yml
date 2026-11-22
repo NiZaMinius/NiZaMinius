@@ -30,11 +30,30 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
+      - name: Mask excluded repository names
+        env:
+          STATS_EXCLUDED_REPOS: ${{ secrets.STATS_EXCLUDED_REPOS }}
+        shell: bash
+        run: |
+          if [[ -z "$STATS_EXCLUDED_REPOS" ]]; then
+            echo "::error::STATS_EXCLUDED_REPOS secret is missing."
+            exit 1
+          fi
+
+          IFS=',' read -r -a excluded_repos <<< "$STATS_EXCLUDED_REPOS"
+          for repo in "${excluded_repos[@]}"; do
+            if [[ -z "$repo" || "$repo" == *[[:space:]]* ]]; then
+              echo "::error::STATS_EXCLUDED_REPOS must be a comma-separated list without spaces or empty entries."
+              exit 1
+            fi
+            printf '::add-mask::%s\n' "$repo"
+          done
+
       - name: Generate GitHub language distribution
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: "username=NiZaMinius&layout=compact&custom_title=Languages%20Across%20Repositories&langs_count=10&size_weight=0.5&count_weight=0.5&title_color=A78BFA&text_color=C9C1D9&icon_color=C4B5FD&bg_color=00000000&hide_border=true"
+          options: "username=NiZaMinius&layout=compact&custom_title=Most%20Used%20Languages&langs_count=6&card_width=420&size_weight=1&count_weight=0&exclude_repo=${{ secrets.STATS_EXCLUDED_REPOS }}&title_color=A78BFA&text_color=C9C1D9&icon_color=C4B5FD&bg_color=00000000&hide_border=true"
           path: languages.svg
           token: ${{ secrets.GH_TOKEN }}
           fail_on_error: true
