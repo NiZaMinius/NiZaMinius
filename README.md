@@ -183,7 +183,7 @@ A collaborative Rust Discord bot that estimates channel activity using a heurist
   <tr>
     <td><b>Interoperability & APIs</b></td>
     <td>
-      <a href=""><img src="https://img.shields.io/badge/C%20ABI%20%2F%20FFI-302642?style=flat-square&logo=c&logoColor=C4B5FD" alt="C ABI / FFI" /></a>
+      <img src="https://img.shields.io/badge/C%20ABI%20%2F%20FFI-302642?style=flat-square&logo=c&logoColor=C4B5FD" alt="C ABI / FFI" />
       <a href="https://discord.com/developers/docs/intro"><img src="https://img.shields.io/badge/Discord%20API-302642?style=flat-square&logo=discord&logoColor=C4B5FD" alt="Discord API" /></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP"><img src="https://img.shields.io/badge/REST%20APIs-302642?style=flat-square" alt="REST APIs" /></a>
     </td>
@@ -230,7 +230,7 @@ A collaborative Rust Discord bot that estimates channel activity using a heurist
 ### Languages in repositories · GitHub
 
 <p align="center">
-  <img src="./languages.svg" alt="GitHub language distribution by repository code size" />
+  <img src="./languages.svg" alt="GitHub language distribution across accessible repositories" />
 </p>
 
 ### Code changes by quarter · GitHub
