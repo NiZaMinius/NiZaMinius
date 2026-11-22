@@ -98,7 +98,10 @@ A collaborative Rust Discord bot that estimates channel activity using a heurist
   <tr>
     <td width="175"><b>Languages</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=rust,python,ts,js&theme=dark&perline=4" height="42" alt="Rust, Python, TypeScript, JavaScript" />
+      <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="Rust" /></a>
+      <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-302642?style=flat-square&logo=python&logoColor=C4B5FD" alt="Python" /></a>
+      <a href="https://www.typescriptlang.org/docs/"><img src="https://img.shields.io/badge/TypeScript-302642?style=flat-square&logo=typescript&logoColor=C4B5FD" alt="TypeScript" /></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-302642?style=flat-square&logo=javascript&logoColor=C4B5FD" alt="JavaScript" /></a>
       <br/>
       <sub>Rust is my primary language.</sub>
     </td>
@@ -106,82 +109,100 @@ A collaborative Rust Discord bot that estimates channel activity using a heurist
   <tr>
     <td><b>CLI & TUI</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Ratatui-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="Ratatui" />
-      <img src="https://img.shields.io/badge/Crossterm-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="Crossterm" />
-      <img src="https://img.shields.io/badge/Clap-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="Clap" />
-      <img src="https://img.shields.io/badge/Arboard-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="Arboard" />
+      <a href="https://ratatui.rs/"><img src="https://img.shields.io/badge/Ratatui-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="Ratatui" /></a>
+      <a href="https://docs.rs/crossterm/latest/crossterm/"><img src="https://img.shields.io/badge/Crossterm-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="Crossterm" /></a>
+      <a href="https://docs.rs/clap/latest/clap/"><img src="https://img.shields.io/badge/Clap-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="Clap" /></a>
+      <a href="https://docs.rs/arboard/latest/arboard/"><img src="https://img.shields.io/badge/Arboard-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="Arboard" /></a>
     </td>
   </tr>
   <tr>
     <td><b>Async & Discord</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Tokio-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="Tokio" />
-      <img src="https://img.shields.io/badge/Serenity-302642?style=flat-square&logo=discord&logoColor=C4B5FD" alt="Serenity" />
-      <img src="https://img.shields.io/badge/Poise-302642?style=flat-square&logo=discord&logoColor=C4B5FD" alt="Poise" />
+      <a href="https://tokio.rs/"><img src="https://img.shields.io/badge/Tokio-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="Tokio" /></a>
+      <a href="https://docs.rs/serenity/latest/serenity/"><img src="https://img.shields.io/badge/Serenity-302642?style=flat-square&logo=discord&logoColor=C4B5FD" alt="Serenity" /></a>
+      <a href="https://docs.rs/poise/latest/poise/"><img src="https://img.shields.io/badge/Poise-302642?style=flat-square&logo=discord&logoColor=C4B5FD" alt="Poise" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Python Libraries</b></td>
+    <td>
+      <a href="https://discordpy.readthedocs.io/en/stable/"><img src="https://img.shields.io/badge/discord.py-302642?style=flat-square&logo=discord&logoColor=C4B5FD" alt="discord.py" /></a>
+      <a href="https://docs.aiohttp.org/en/stable/"><img src="https://img.shields.io/badge/aiohttp-302642?style=flat-square&logo=python&logoColor=C4B5FD" alt="aiohttp" /></a>
+      <a href="https://magicstack.github.io/asyncpg/current/"><img src="https://img.shields.io/badge/asyncpg-302642?style=flat-square&logo=postgresql&logoColor=C4B5FD" alt="asyncpg" /></a>
+      <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-302642?style=flat-square&logo=flask&logoColor=C4B5FD" alt="Flask" /></a>
+      <a href="https://saurabh-kumar.com/python-dotenv/"><img src="https://img.shields.io/badge/python-dotenv-302642?style=flat-square&logo=python&logoColor=C4B5FD" alt="python-dotenv" /></a>
+      <a href="https://pytba.readthedocs.io/en/latest/"><img src="https://img.shields.io/badge/pyTelegramBotAPI-302642?style=flat-square&logo=telegram&logoColor=C4B5FD" alt="pyTelegramBotAPI" /></a>
+      <a href="https://docs.python-telegram-bot.org/en/stable/"><img src="https://img.shields.io/badge/python-telegram-bot-302642?style=flat-square&logo=telegram&logoColor=C4B5FD" alt="python-telegram-bot" /></a>
+      <a href="https://requests.readthedocs.io/en/latest/"><img src="https://img.shields.io/badge/Requests-302642?style=flat-square&logo=python&logoColor=C4B5FD" alt="Requests" /></a>
+      <a href="https://github.com/Mimino666/langdetect"><img src="https://img.shields.io/badge/langdetect-302642?style=flat-square&logo=python&logoColor=C4B5FD" alt="langdetect" /></a>
     </td>
   </tr>
   <tr>
     <td><b>Data & Serialization</b></td>
     <td>
-      <img src="https://img.shields.io/badge/SQLx-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="SQLx" />
-      <img src="https://img.shields.io/badge/Serde-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="Serde" />
-      <img src="https://img.shields.io/badge/serde__json-302642?style=flat-square&logo=json&logoColor=C4B5FD" alt="serde_json" />
-      <img src="https://img.shields.io/badge/Chrono-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="Chrono" />
+      <a href="https://docs.rs/sqlx/latest/sqlx/"><img src="https://img.shields.io/badge/SQLx-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="SQLx" /></a>
+      <a href="https://serde.rs/"><img src="https://img.shields.io/badge/Serde-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="Serde" /></a>
+      <a href="https://docs.rs/serde_json/latest/serde_json/"><img src="https://img.shields.io/badge/serde_json-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="serde_json" /></a>
+      <a href="https://docs.rs/chrono/latest/chrono/"><img src="https://img.shields.io/badge/Chrono-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="Chrono" /></a>
     </td>
   </tr>
   <tr>
     <td><b>Errors & Logging</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Anyhow-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="Anyhow" />
-      <img src="https://img.shields.io/badge/Thiserror-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="Thiserror" />
-      <img src="https://img.shields.io/badge/Tracing-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="Tracing" />
-      <img src="https://img.shields.io/badge/Dotenvy-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="Dotenvy" />
+      <a href="https://docs.rs/anyhow/latest/anyhow/"><img src="https://img.shields.io/badge/Anyhow-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="Anyhow" /></a>
+      <a href="https://docs.rs/thiserror/latest/thiserror/"><img src="https://img.shields.io/badge/Thiserror-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="Thiserror" /></a>
+      <a href="https://docs.rs/tracing/latest/tracing/"><img src="https://img.shields.io/badge/Tracing-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="Tracing" /></a>
+      <a href="https://docs.rs/dotenvy/latest/dotenvy/"><img src="https://img.shields.io/badge/Dotenvy-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="Dotenvy" /></a>
     </td>
   </tr>
   <tr>
     <td><b>Databases & Backend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=sqlite,postgres,supabase&theme=dark&perline=3" height="42" alt="SQLite, PostgreSQL, Supabase" />
+      <a href="https://sqlite.org/docs.html"><img src="https://img.shields.io/badge/SQLite-302642?style=flat-square&logo=sqlite&logoColor=C4B5FD" alt="SQLite" /></a>
+      <a href="https://www.postgresql.org/docs/"><img src="https://img.shields.io/badge/PostgreSQL-302642?style=flat-square&logo=postgresql&logoColor=C4B5FD" alt="PostgreSQL" /></a>
+      <a href="https://supabase.com/docs"><img src="https://img.shields.io/badge/Supabase-302642?style=flat-square&logo=supabase&logoColor=C4B5FD" alt="Supabase" /></a>
       <br/>
-      <img src="https://img.shields.io/badge/pgvector-302642?style=flat-square" alt="pgvector" />
+      <a href="https://github.com/pgvector/pgvector"><img src="https://img.shields.io/badge/pgvector-302642?style=flat-square&logo=postgresql&logoColor=C4B5FD" alt="pgvector" /></a>
     </td>
   </tr>
   <tr>
     <td><b>Machine Learning</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Burn-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="Burn" />
+      <a href="https://burn.dev/book/"><img src="https://img.shields.io/badge/Burn-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="Burn" /></a>
     </td>
   </tr>
   <tr>
     <td><b>Cryptography</b></td>
     <td>
-      <img src="https://img.shields.io/badge/XChaCha20--Poly1305-302642?style=flat-square" alt="XChaCha20-Poly1305" />
-      <img src="https://img.shields.io/badge/PBKDF2--HMAC--SHA256-302642?style=flat-square" alt="PBKDF2-HMAC-SHA256" />
-      <img src="https://img.shields.io/badge/SHA--2-302642?style=flat-square" alt="SHA-2" />
-      <img src="https://img.shields.io/badge/Zeroize-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="Zeroize" />
+      <a href="https://docs.rs/chacha20poly1305/latest/chacha20poly1305/"><img src="https://img.shields.io/badge/XChaCha20-Poly1305-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="XChaCha20-Poly1305" /></a>
+      <a href="https://docs.rs/pbkdf2/latest/pbkdf2/"><img src="https://img.shields.io/badge/PBKDF2-HMAC-SHA256-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="PBKDF2-HMAC-SHA256" /></a>
+      <a href="https://docs.rs/sha2/latest/sha2/"><img src="https://img.shields.io/badge/SHA-2-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="SHA-2" /></a>
+      <a href="https://docs.rs/zeroize/latest/zeroize/"><img src="https://img.shields.io/badge/Zeroize-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="Zeroize" /></a>
     </td>
   </tr>
   <tr>
     <td><b>Interoperability & APIs</b></td>
     <td>
       <img src="https://img.shields.io/badge/C%20ABI%20%2F%20FFI-302642?style=flat-square&logo=c&logoColor=C4B5FD" alt="C ABI / FFI" />
-      <img src="https://img.shields.io/badge/Discord%20API-302642?style=flat-square&logo=discord&logoColor=C4B5FD" alt="Discord API" />
-      <img src="https://img.shields.io/badge/REST%20APIs-302642?style=flat-square" alt="REST APIs" />
+      <a href="https://discord.com/developers/docs/intro"><img src="https://img.shields.io/badge/Discord%20API-302642?style=flat-square&logo=discord&logoColor=C4B5FD" alt="Discord API" /></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP"><img src="https://img.shields.io/badge/REST%20APIs-302642?style=flat-square" alt="REST APIs" /></a>
     </td>
   </tr>
   <tr>
     <td><b>Frontend · Previous experience</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react,svelte,vite&theme=dark&perline=3" height="42" alt="React, Svelte, Vite" />
+      <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-302642?style=flat-square&logo=react&logoColor=C4B5FD" alt="React" /></a>
+      <a href="https://svelte.dev/docs"><img src="https://img.shields.io/badge/Svelte-302642?style=flat-square&logo=svelte&logoColor=C4B5FD" alt="Svelte" /></a>
+      <a href="https://vite.dev/guide/"><img src="https://img.shields.io/badge/Vite-302642?style=flat-square&logo=vite&logoColor=C4B5FD" alt="Vite" /></a>
     </td>
   </tr>
   <tr>
     <td><b>Testing</b></td>
     <td>
-      <img src="https://img.shields.io/badge/assert__cmd-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="assert_cmd" />
-      <img src="https://img.shields.io/badge/predicates-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="predicates" />
-      <img src="https://img.shields.io/badge/tempfile-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="tempfile" />
-      <img src="https://img.shields.io/badge/serial__test-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="serial_test" />
+      <a href="https://docs.rs/assert_cmd/latest/assert_cmd/"><img src="https://img.shields.io/badge/assert_cmd-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="assert_cmd" /></a>
+      <a href="https://docs.rs/predicates/latest/predicates/"><img src="https://img.shields.io/badge/predicates-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="predicates" /></a>
+      <a href="https://docs.rs/tempfile/latest/tempfile/"><img src="https://img.shields.io/badge/tempfile-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="tempfile" /></a>
+      <a href="https://docs.rs/serial_test/latest/serial_test/"><img src="https://img.shields.io/badge/serial_test-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="serial_test" /></a>
     </td>
   </tr>
 </table>
@@ -209,7 +230,7 @@ A collaborative Rust Discord bot that estimates channel activity using a heurist
 ### Languages in repositories · GitHub
 
 <p align="center">
-  <img src="./languages.svg" alt="GitHub language distribution by repository code size" />
+  <img src="./languages.svg" alt="GitHub language distribution across accessible repositories" />
 </p>
 
 ### Code changes by quarter · GitHub
