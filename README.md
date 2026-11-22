@@ -98,10 +98,10 @@ A collaborative Rust Discord bot that estimates channel activity using a heurist
   <tr>
     <td width="175"><b>Languages</b></td>
     <td>
-      <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="Rust" /></a>
-      <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-302642?style=flat-square&logo=python&logoColor=C4B5FD" alt="Python" /></a>
-      <a href="https://www.typescriptlang.org/docs/"><img src="https://img.shields.io/badge/TypeScript-302642?style=flat-square&logo=typescript&logoColor=C4B5FD" alt="TypeScript" /></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-302642?style=flat-square&logo=javascript&logoColor=C4B5FD" alt="JavaScript" /></a>
+      <a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust&theme=dark" height="42" alt="Rust" /></a>
+      <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&theme=dark" height="42" alt="Python" /></a>
+      <a href="https://www.typescriptlang.org/docs/"><img src="https://skillicons.dev/icons?i=ts&theme=dark" height="42" alt="TypeScript" /></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" height="42" alt="JavaScript" /></a>
       <br/>
       <sub>Rust is my primary language.</sub>
     </td>
@@ -119,20 +119,20 @@ A collaborative Rust Discord bot that estimates channel activity using a heurist
     <td><b>Async & Discord</b></td>
     <td>
       <a href="https://tokio.rs/"><img src="https://img.shields.io/badge/Tokio-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="Tokio" /></a>
-      <a href="https://docs.rs/serenity/latest/serenity/"><img src="https://img.shields.io/badge/Serenity-302642?style=flat-square&logo=discord&logoColor=C4B5FD" alt="Serenity" /></a>
-      <a href="https://docs.rs/poise/latest/poise/"><img src="https://img.shields.io/badge/Poise-302642?style=flat-square&logo=discord&logoColor=C4B5FD" alt="Poise" /></a>
+      <a href="https://docs.rs/serenity/latest/serenity/"><img src="https://img.shields.io/badge/Serenity-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="Serenity" /></a>
+      <a href="https://docs.rs/poise/latest/poise/"><img src="https://img.shields.io/badge/Poise-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="Poise" /></a>
     </td>
   </tr>
   <tr>
     <td><b>Python Libraries</b></td>
     <td>
-      <a href="https://discordpy.readthedocs.io/en/stable/"><img src="https://img.shields.io/badge/discord.py-302642?style=flat-square&logo=discord&logoColor=C4B5FD" alt="discord.py" /></a>
+      <a href="https://discordpy.readthedocs.io/en/stable/"><img src="https://img.shields.io/badge/discord.py-302642?style=flat-square&logo=python&logoColor=C4B5FD" alt="discord.py" /></a>
       <a href="https://docs.aiohttp.org/en/stable/"><img src="https://img.shields.io/badge/aiohttp-302642?style=flat-square&logo=python&logoColor=C4B5FD" alt="aiohttp" /></a>
-      <a href="https://magicstack.github.io/asyncpg/current/"><img src="https://img.shields.io/badge/asyncpg-302642?style=flat-square&logo=postgresql&logoColor=C4B5FD" alt="asyncpg" /></a>
-      <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-302642?style=flat-square&logo=flask&logoColor=C4B5FD" alt="Flask" /></a>
-      <a href="https://saurabh-kumar.com/python-dotenv/"><img src="https://img.shields.io/badge/python-dotenv-302642?style=flat-square&logo=python&logoColor=C4B5FD" alt="python-dotenv" /></a>
-      <a href="https://pytba.readthedocs.io/en/latest/"><img src="https://img.shields.io/badge/pyTelegramBotAPI-302642?style=flat-square&logo=telegram&logoColor=C4B5FD" alt="pyTelegramBotAPI" /></a>
-      <a href="https://docs.python-telegram-bot.org/en/stable/"><img src="https://img.shields.io/badge/python-telegram-bot-302642?style=flat-square&logo=telegram&logoColor=C4B5FD" alt="python-telegram-bot" /></a>
+      <a href="https://magicstack.github.io/asyncpg/current/"><img src="https://img.shields.io/badge/asyncpg-302642?style=flat-square&logo=python&logoColor=C4B5FD" alt="asyncpg" /></a>
+      <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-302642?style=flat-square&logo=python&logoColor=C4B5FD" alt="Flask" /></a>
+      <a href="https://saurabh-kumar.com/python-dotenv/"><img src="https://img.shields.io/badge/python--dotenv-302642?style=flat-square&logo=python&logoColor=C4B5FD" alt="python-dotenv" /></a>
+      <a href="https://pytba.readthedocs.io/en/latest/"><img src="https://img.shields.io/badge/pyTelegramBotAPI-302642?style=flat-square&logo=python&logoColor=C4B5FD" alt="pyTelegramBotAPI" /></a>
+      <a href="https://docs.python-telegram-bot.org/en/stable/"><img src="https://img.shields.io/badge/python--telegram--bot-302642?style=flat-square&logo=python&logoColor=C4B5FD" alt="python-telegram-bot" /></a>
       <a href="https://requests.readthedocs.io/en/latest/"><img src="https://img.shields.io/badge/Requests-302642?style=flat-square&logo=python&logoColor=C4B5FD" alt="Requests" /></a>
       <a href="https://github.com/Mimino666/langdetect"><img src="https://img.shields.io/badge/langdetect-302642?style=flat-square&logo=python&logoColor=C4B5FD" alt="langdetect" /></a>
     </td>
@@ -142,7 +142,7 @@ A collaborative Rust Discord bot that estimates channel activity using a heurist
     <td>
       <a href="https://docs.rs/sqlx/latest/sqlx/"><img src="https://img.shields.io/badge/SQLx-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="SQLx" /></a>
       <a href="https://serde.rs/"><img src="https://img.shields.io/badge/Serde-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="Serde" /></a>
-      <a href="https://docs.rs/serde_json/latest/serde_json/"><img src="https://img.shields.io/badge/serde_json-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="serde_json" /></a>
+      <a href="https://docs.rs/serde_json/latest/serde_json/"><img src="https://img.shields.io/badge/serde__json-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="serde_json" /></a>
       <a href="https://docs.rs/chrono/latest/chrono/"><img src="https://img.shields.io/badge/Chrono-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="Chrono" /></a>
     </td>
   </tr>
@@ -158,9 +158,9 @@ A collaborative Rust Discord bot that estimates channel activity using a heurist
   <tr>
     <td><b>Databases & Backend</b></td>
     <td>
-      <a href="https://sqlite.org/docs.html"><img src="https://img.shields.io/badge/SQLite-302642?style=flat-square&logo=sqlite&logoColor=C4B5FD" alt="SQLite" /></a>
-      <a href="https://www.postgresql.org/docs/"><img src="https://img.shields.io/badge/PostgreSQL-302642?style=flat-square&logo=postgresql&logoColor=C4B5FD" alt="PostgreSQL" /></a>
-      <a href="https://supabase.com/docs"><img src="https://img.shields.io/badge/Supabase-302642?style=flat-square&logo=supabase&logoColor=C4B5FD" alt="Supabase" /></a>
+      <a href="https://sqlite.org/docs.html"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" height="42" alt="SQLite" /></a>
+      <a href="https://www.postgresql.org/docs/"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="42" alt="PostgreSQL" /></a>
+      <a href="https://supabase.com/docs"><img src="https://skillicons.dev/icons?i=supabase&theme=dark" height="42" alt="Supabase" /></a>
       <br/>
       <a href="https://github.com/pgvector/pgvector"><img src="https://img.shields.io/badge/pgvector-302642?style=flat-square&logo=postgresql&logoColor=C4B5FD" alt="pgvector" /></a>
     </td>
@@ -174,9 +174,9 @@ A collaborative Rust Discord bot that estimates channel activity using a heurist
   <tr>
     <td><b>Cryptography</b></td>
     <td>
-      <a href="https://docs.rs/chacha20poly1305/latest/chacha20poly1305/"><img src="https://img.shields.io/badge/XChaCha20-Poly1305-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="XChaCha20-Poly1305" /></a>
-      <a href="https://docs.rs/pbkdf2/latest/pbkdf2/"><img src="https://img.shields.io/badge/PBKDF2-HMAC-SHA256-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="PBKDF2-HMAC-SHA256" /></a>
-      <a href="https://docs.rs/sha2/latest/sha2/"><img src="https://img.shields.io/badge/SHA-2-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="SHA-2" /></a>
+      <a href="https://docs.rs/chacha20poly1305/latest/chacha20poly1305/"><img src="https://img.shields.io/badge/XChaCha20--Poly1305-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="XChaCha20-Poly1305" /></a>
+      <a href="https://docs.rs/pbkdf2/latest/pbkdf2/"><img src="https://img.shields.io/badge/PBKDF2--HMAC--SHA256-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="PBKDF2-HMAC-SHA256" /></a>
+      <a href="https://docs.rs/sha2/latest/sha2/"><img src="https://img.shields.io/badge/SHA--2-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="SHA-2" /></a>
       <a href="https://docs.rs/zeroize/latest/zeroize/"><img src="https://img.shields.io/badge/Zeroize-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="Zeroize" /></a>
     </td>
   </tr>
@@ -191,18 +191,18 @@ A collaborative Rust Discord bot that estimates channel activity using a heurist
   <tr>
     <td><b>Frontend · Previous experience</b></td>
     <td>
-      <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-302642?style=flat-square&logo=react&logoColor=C4B5FD" alt="React" /></a>
-      <a href="https://svelte.dev/docs"><img src="https://img.shields.io/badge/Svelte-302642?style=flat-square&logo=svelte&logoColor=C4B5FD" alt="Svelte" /></a>
-      <a href="https://vite.dev/guide/"><img src="https://img.shields.io/badge/Vite-302642?style=flat-square&logo=vite&logoColor=C4B5FD" alt="Vite" /></a>
+      <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react&theme=dark" height="42" alt="React" /></a>
+      <a href="https://svelte.dev/docs"><img src="https://skillicons.dev/icons?i=svelte&theme=dark" height="42" alt="Svelte" /></a>
+      <a href="https://vite.dev/guide/"><img src="https://skillicons.dev/icons?i=vite&theme=dark" height="42" alt="Vite" /></a>
     </td>
   </tr>
   <tr>
     <td><b>Testing</b></td>
     <td>
-      <a href="https://docs.rs/assert_cmd/latest/assert_cmd/"><img src="https://img.shields.io/badge/assert_cmd-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="assert_cmd" /></a>
+      <a href="https://docs.rs/assert_cmd/latest/assert_cmd/"><img src="https://img.shields.io/badge/assert__cmd-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="assert_cmd" /></a>
       <a href="https://docs.rs/predicates/latest/predicates/"><img src="https://img.shields.io/badge/predicates-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="predicates" /></a>
       <a href="https://docs.rs/tempfile/latest/tempfile/"><img src="https://img.shields.io/badge/tempfile-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="tempfile" /></a>
-      <a href="https://docs.rs/serial_test/latest/serial_test/"><img src="https://img.shields.io/badge/serial_test-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="serial_test" /></a>
+      <a href="https://docs.rs/serial_test/latest/serial_test/"><img src="https://img.shields.io/badge/serial__test-302642?style=flat-square&logo=rust&logoColor=C4B5FD" alt="serial_test" /></a>
     </td>
   </tr>
 </table>
